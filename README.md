@@ -21,4 +21,6 @@ Install the required dependencies using pip install -r requirements.txt.
 Run the MultiModalAI_SignEmotion_Detection.py script to launch the application.
 Interact with the webcam and observe simultaneous emotion and sign language recognition.
 
-
+Dataset link :
+for emotion detection :https://www.kaggle.com/datasets/yusufkorayhasdemir/fer2013csv
+for sign language detection:https://www.kaggle.com/datasets/datamunge/sign-language-mnist
